@@ -11,6 +11,7 @@ int main()
 	for (int i = 0; i < 6; i++)
 	{
 		cout << i << endl; 
+		cout << i+1 << endl; 
 	}
 
 	string s = "used visual studio code"; 
